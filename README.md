@@ -20,15 +20,15 @@ In this experiment, four detection models, Tiny YOLOv4, MobileNet YOLOv4, Effici
 
 ###### Tiny YOLOv4
 
-图
+<img width="1739" height="1160" alt="tiny_mAP" src="https://github.com/user-attachments/assets/a7dd935a-eb60-440c-b467-8ed1a6e81fc7" />
 
 ###### MobileNet YOLOv4
 
-图
+<img width="1742" height="1187" alt="mobilenet_mAP" src="https://github.com/user-attachments/assets/29e3522c-70ff-4894-8637-c1880fdc4407" />
 
 ###### EfficientNet YOLO3
 
-图
+<img width="1745" height="1168" alt="efficientnet_mAP" src="https://github.com/user-attachments/assets/cb7e509e-9f47-46d7-9333-b7f77b591e60" />
 
 ###### NanoDet
 
@@ -38,15 +38,15 @@ In this experiment, four detection models, Tiny YOLOv4, MobileNet YOLOv4, Effici
 
 ###### Tiny YOLOv4
 
-图
+<img width="1071" height="569" alt="tiny_fps" src="https://github.com/user-attachments/assets/e1a0420c-c899-48cc-ba12-b9a305ec6bd8" />
 
 ###### MobileNet YOLOv4
 
-图
+<img width="1056" height="475" alt="mobile_fps" src="https://github.com/user-attachments/assets/a178a08a-79c5-488e-8851-5415b4710280" />
 
 ###### EfficientNet YOLO3
 
-图
+<img width="1026" height="536" alt="efficient_fps" src="https://github.com/user-attachments/assets/07acf322-82c8-4a4a-8c06-435a702da73d" />
 
 ###### NanoDet
 
