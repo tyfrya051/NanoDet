@@ -50,7 +50,7 @@ In this experiment, four detection models, Tiny YOLOv4, MobileNet YOLOv4, Effici
 
 ###### NanoDet
 
-97
+60
 
 #### Conclusion Analysis
 
@@ -60,7 +60,7 @@ Although MobileNet YOLOv4 has a slightly higher mAP than Tiny YOLOv4, reaching 8
 
 EfficientNet YOLO3 showed the highest mAP of 83.04% among all evaluated models, showing its excellent performance in object detection tasks. However, EfficientNet YOLO3 has a fps of 43, the lowest among all models, which indicates that while it achieves high accuracy, it has a high demand for computing resources and is not suitable for applications with extremely high real-time requirements.
 
-NanoDet has a mAP of 73.84%, the lowest among all models, but its fps is 97, providing a faster processing speed. Based on this result, it can be shown that NanoDet may have optimized the model size and computing efficiency, which is suitable for resource-constrained environments, but compromises in accuracy.
+NanoDet has a mAP of 73.84%, the lowest among all models, but its fps is 60, providing a faster processing speed. Based on this result, it can be shown that NanoDet may have optimized the model size and computing efficiency, which is suitable for resource-constrained environments, but compromises in accuracy.
 
 The selection of the most suitable model needs to be based on the specific application scenario and requirements. For scenarios that require fast detection and do not require extremely high accuracy, Tiny YOLOv4 may be a better choice. If the application scenario can tolerate a lower processing speed but has higher requirements for accuracy, EfficientNet YOLO3 will be a more suitable option. For resource-constrained environments, NanoDet may be a compromise solution.
 
