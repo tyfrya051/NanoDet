@@ -1,4 +1,4 @@
-# Comparison experiment between NanoDet and Tiny YOLOv4 & MobileNet YOLOv4 & EfficientNet YOLO3
+## Comparison experiment between NanoDet and Tiny YOLOv4 & MobileNet YOLOv4 & EfficientNet YOLO3
 
 #### Equipment & Environment
 
